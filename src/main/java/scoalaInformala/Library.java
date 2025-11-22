@@ -8,4 +8,7 @@ public class Library {
     // Adaug si eu un comment - Bianca Nef din branch-ul meu.
     // Adaug si eu un comment - Claudia Isac - tura 2
     // Adaug si eu un comment -SalageanMihai
+    // Adaug si eu un comment - Eliza Morar
+
+
 }
