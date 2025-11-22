@@ -4,4 +4,5 @@ public class Library {
     // Adaug  un comment in aceasta clasa
     // Adaug si eu un comment - Razvan Pruteanu
     // Adaug si eu un comment - Bianca Nef din branch-ul meu.
+    // Adaug si eu un comment -SalageanMihai
 }
